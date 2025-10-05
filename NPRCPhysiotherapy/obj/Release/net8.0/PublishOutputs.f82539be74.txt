@@ -1,0 +1,7 @@
+/workspaces/NPRCPhysiotherapy/publish/NPRCPhysiotherapy
+/workspaces/NPRCPhysiotherapy/publish/appsettings.Development.json
+/workspaces/NPRCPhysiotherapy/publish/appsettings.json
+/workspaces/NPRCPhysiotherapy/publish/NPRCPhysiotherapy.dll
+/workspaces/NPRCPhysiotherapy/publish/NPRCPhysiotherapy.deps.json
+/workspaces/NPRCPhysiotherapy/publish/NPRCPhysiotherapy.runtimeconfig.json
+/workspaces/NPRCPhysiotherapy/publish/NPRCPhysiotherapy.pdb
